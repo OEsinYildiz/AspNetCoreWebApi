@@ -1,0 +1,12 @@
+C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.Service\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Service.deps.json
+C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.Service\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Service.dll
+C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.Service\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Service.pdb
+C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.Service\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Core.dll
+C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.Service\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Core.pdb
+C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.Service\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Service.csprojAssemblyReference.cache
+C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.Service\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Service.AssemblyInfoInputs.cache
+C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.Service\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Service.AssemblyInfo.cs
+C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.Service\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.Service\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Service.csproj.CopyComplete
+C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.Service\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Service.dll
+C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.Service\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Service.pdb
