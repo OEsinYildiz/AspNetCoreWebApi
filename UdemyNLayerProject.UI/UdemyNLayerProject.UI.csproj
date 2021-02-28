@@ -57,4 +57,20 @@
       <_ContentIncludedByDefault Remove="wwwroot\lib\jquery\LICENSE.txt" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Compile Remove="Mapping\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="Mapping\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Mapping\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Remove="Mapping\**" />
+    </ItemGroup>
+
 </Project>

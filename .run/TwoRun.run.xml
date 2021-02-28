@@ -1,0 +1,7 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TwoRun" type="CompoundRunConfigurationType">
+    <toRun name="UdemyNLayerProject.UI" type="LaunchSettings" />
+    <toRun name="UdemyNLayerProject.API" type="LaunchSettings" />
+    <method v="2" />
+  </configuration>
+</component>

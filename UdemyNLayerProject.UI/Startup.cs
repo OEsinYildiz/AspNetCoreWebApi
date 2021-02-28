@@ -1,3 +1,6 @@
+using System;
+using System.Net.Http.Headers;
+using System.Text;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +13,7 @@ using UdemyNLayerProject.Data;
 using UdemyNLayerProject.Data.Repository;
 using UdemyNLayerProject.Data.UnitOfWork;
 using UdemyNLayerProject.Service.Services;
+using UdemyNLayerProject.UI.ApiServices;
 using UdemyNLayerProject.UI.Filters;
 
 namespace UdemyNLayerProject.UI
@@ -20,11 +24,13 @@ namespace UdemyNLayerProject.UI
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddHttpClient<ApiServices.CategoryApiService>(opt =>
+            {
+                opt.BaseAddress = new Uri("https://localhost:5001/api/");
+            });
             services.AddScoped<NotFoundFilter>();
-            services.AddAutoMapper(typeof(Startup));
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
             services.AddScoped(typeof(IService<>), typeof(Service<>));
-            services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<IProductService, ProductService>();
             services
                 .AddScoped<IUnitOfWork, UnitOfWork

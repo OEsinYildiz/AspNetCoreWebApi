@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using UdemyNLayerProject.API.DTOs;
 using UdemyNLayerProject.Core.Models;
 using UdemyNLayerProject.Core.Services;
+using UdemyNLayerProject.Service.Services;
 
 namespace UdemyNLayerProject.API.Controllers
 {

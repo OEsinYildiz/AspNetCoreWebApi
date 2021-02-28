@@ -66,7 +66,10 @@ C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNL
 C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.UI\obj\Debug\netcoreapp3.1\UdemyNLayerProject.UI.TagHelpers.input.cache
 C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.UI\obj\Debug\netcoreapp3.1\UdemyNLayerProject.UI.TagHelpers.output.cache
 C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.UI\obj\Debug\netcoreapp3.1\UdemyNLayerProject.UI.RazorCoreGenerate.cache
+C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
 C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category\Update.cshtml.g.cs
+C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
@@ -79,6 +82,3 @@ C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNL
 C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.UI\obj\Debug\netcoreapp3.1\UdemyNLayerProject.UI.dll
 C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.UI\obj\Debug\netcoreapp3.1\UdemyNLayerProject.UI.pdb
 C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.UI\obj\Debug\netcoreapp3.1\UdemyNLayerProject.UI.genruntimeconfig.cache
-C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
-C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category\Update.cshtml.g.cs
-C:\Users\omere\RiderProjects\Udemy\UdemyNLayerProject\UdemyNLayerProject\UdemyNLayerProject.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
